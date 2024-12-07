@@ -3,8 +3,13 @@
 -  💼 Currently a student of Btech CSE at SOA University
 
 <img  align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" width="400px">
-
-- 📫 How to reach me **https://github.com/Abk700007**
+- 📫 How to reach me: 
+   <a href="https://github.com/Abk700007" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" alt="github" width="30" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abhiranjan-kumar-9aa406292/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
+  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -33,8 +38,4 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abk700007&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abk700007&theme=dark" alt="GitHub Streak" />
 </div>
