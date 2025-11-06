@@ -76,6 +76,25 @@
 
 ---
 
+###  Hacktoberfest 2025 Achievements
+
+<p align="center">
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Hacktoberfest 2025 Badge 1" width="120" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="Hacktoberfest 2025 Badge 2" width="120" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Hacktoberfest 2025 Badge 3" width="120" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="Hacktoberfest 2025 Badge 4" width="120" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Hacktoberfest 2025 Badge 5" width="120" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Hacktoberfest 2025 Badge 5" width="120" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Super Contributor Badge" width="120" />
+</p>
+
+<p align="center">
+  🎉 Completed my first-ever open source journey with <b>6 accepted PRs</b> and earned the <b>Super Contributor</b> badge!  
+</p>
+
+---
+
+
 ### 📊 My GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abk700007&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
