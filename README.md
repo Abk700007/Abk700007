@@ -22,7 +22,6 @@
           <li>🎓 <b>Education:</b> B.Tech CSE at SOA University</li>
           <li>💻 <b>Currently Building:</b> Production-grade UIs with React & Vite</li>
           <li>🧠 <b>Currently Learning:</b> Advanced DSA, AI Agent Resilience, and System Fault Tolerance</li>
-          <li>📈 <b>Beyond Coding:</b> Analyzing stock market momentum and Q4 earnings data</li>
           <li>🚀 <b>Goals:</b> Mastering full-stack architecture & open-source collaboration</li>
         </ul>
       </td>
@@ -32,7 +31,7 @@ const dev = {
   name: "Abhiranjan Kumar",
   role: "Software Engineer",
   location: "India (IST)",
-  passions: ["Web Dev", "DSA", "Trading"],
+  passions: ["Web Dev", "DSA", "Reading"],
   motto: "Write code your future self will thank you for.",
 };
 </pre>
