@@ -64,13 +64,12 @@ const dev = {
 <h2 align="center">🚀 Featured Builds</h2>
 <div align="center">
   <a href="https://github.com/Abk700007/Finnova">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abk700007&repo=Finnova&theme=github_dark&bg_color=0d1117&border_color=0077b6&title_color=00b4d8&icon_color=0077b6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abk700007&repo=Finnova&theme=github_dark&bg_color=0d1117&border_color=0077b6&title_color=00b4d8&icon_color=0077b6&v=1" />
   </a>
   <a href="https://github.com/Abk700007/TradeTrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abk700007&repo=TradeTrack&theme=github_dark&bg_color=0d1117&border_color=0077b6&title_color=00b4d8&icon_color=0077b6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abk700007&repo=TradeTrack&theme=github_dark&bg_color=0d1117&border_color=0077b6&title_color=00b4d8&icon_color=0077b6&v=1" />
   </a>
   <br/><br/>
-  
 </div>
 <br/>
 
