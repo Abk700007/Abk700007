@@ -1,125 +1,123 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#0077b6;">Abhiranjan Kumar</span></h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0077b6&center=true&width=435&lines=Passionate+Coder;Eager+Learner" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0077b6,100:00b4d8&height=200&section=header&text=Abhiranjan%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&descAlignY=58&descSize=16&descColor=90e0ef&animation=fadeIn" />
 
-<p align="center">
-  <!-- Badges: Skills, Languages, Visitor Count -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript Badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite Badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js Badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 Badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap Badge" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code Badge" />
-  <img src="https://komarev.com/ghpvc/?username=abk700007&style=for-the-badge" alt="Profile Views Badge" />
-</p>
-
-<img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" width="350px" />
-
-### 👨‍💻 About Me
-- 🌱 Currently Exploring **WebDev** and learning **DSA**
-- 🎓 Student of **BTech CSE** at **SOA University**
-- ✨ Always curious about new tech & open to collaboration
-
-### 📫 Connect with Me
-<p>
-  <a href="https://github.com/Abk700007" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Frontend+Developer;DSA+Enthusiast;Full-Stack+Architect;Open+Source+Contributor" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/abhiranjan-kumar-9aa406292/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Abk700007"><img src="https://img.shields.io/github/followers/abk700007?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0077b6&labelColor=0a0a0a" /></a>
+  <img src="https://komarev.com/ghpvc/?username=abk700007&style=for-the-badge&color=00b4d8&label=Profile+Views" />
+  <a href="https://www.linkedin.com/in/abhiranjan-kumar-9aa406292/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" /></a>
+</div>
+<br/>
+
+<h2 align="center">👨‍💻 About Me</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li>🎓 <b>Education:</b> B.Tech CSE at SOA University</li>
+          <li>💻 <b>Currently Building:</b> Production-grade UIs with React & Vite</li>
+          <li>🧠 <b>Currently Learning:</b> Advanced DSA, AI Agent Resilience, and System Fault Tolerance</li>
+          <li>📈 <b>Beyond Coding:</b> Analyzing stock market momentum and Q4 earnings data</li>
+          <li>🚀 <b>Goals:</b> Mastering full-stack architecture & open-source collaboration</li>
+        </ul>
+      </td>
+      <td width="50%">
+<pre lang="javascript">
+const dev = {
+  name: "Abhiranjan Kumar",
+  role: "Software Engineer",
+  location: "India (IST)",
+  passions: ["Web Dev", "DSA", "Trading"],
+  motto: "Write code your future self will thank you for.",
+};
+</pre>
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
+
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+<div align="center">
+  <p><b>Languages</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,java,python,html,css&perline=10" />
   </a>
-</p>
-
----
-
-### 🚀 Languages & Tools
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <br/><br/>
+  <p><b>Frontend & Backend</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,bootstrap,tailwind&perline=10" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <br/><br/>
+  <p><b>Tools & Platforms</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&perline=10" />
   </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</div>
+<br/>
+
+<h2 align="center">🚀 Featured Builds</h2>
+<div align="center">
+  <a href="https://github.com/Abk700007/Finnova">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abk700007&repo=Finnova&theme=github_dark&bg_color=0d1117&border_color=0077b6&title_color=00b4d8&icon_color=0077b6" />
   </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
+  <a href="https://github.com/Abk700007/TradeTrack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abk700007&repo=TradeTrack&theme=github_dark&bg_color=0d1117&border_color=0077b6&title_color=00b4d8&icon_color=0077b6" />
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
-</p>
+  <br/><br/>
+  
+</div>
+<br/>
 
----
+<h2 align="center">📊 GitHub Analytics</h2>
 
-###  Hacktoberfest 2025 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abk700007&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+<br/>
 
-<p align="center">
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Hacktoberfest 2025 Badge 1" width="120" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="Hacktoberfest 2025 Badge 2" width="120" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Hacktoberfest 2025 Badge 3" width="120" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="Hacktoberfest 2025 Badge 4" width="120" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Hacktoberfest 2025 Badge 5" width="120" />
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Hacktoberfest 2025 Badge 5" width="120" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Super Contributor Badge" width="120" />
-</p>
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=abk700007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=0077b6&text_color=c9d1d9&ring_color=0077b6" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abk700007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abk700007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0077b6&ring=00b4d8&fire=00b4d8&currStreakLabel=c9d1d9&sideLabels=c9d1d9" />
+</div>
+<br/>
 
-<p align="center">
-  🎉 Completed my first-ever open source journey with <b>6 accepted PRs</b> and earned the <b>Super Contributor</b> badge!  
-</p>
+<h2 align="center">🏆 Open Source Contributions</h2>
+<div align="center">
+  <p><b>Hacktoberfest 2025:</b> Shipped 6 pull requests. Earned every badge. Zero shortcuts.</p>
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="80"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="80"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="80"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="80"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="80"/>
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="80"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="80"/>
+</div>
+<br/>
 
----
+<div align="center">
+  <h3>Code Activity</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+<br/>
 
-### 📊 My GitHub Stats
-
-<p>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abk700007&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
-
-</p>
-
-<p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=abk700007&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-
-</p>
-
-<p>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abk700007&theme=dark" alt="GitHub Streak" />
-
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
-
----
-
-<!-- You can add more sections below for Projects, Achievements, Blogs, or Fun Facts! -->
+<h2 align="center">🌐 Let's Connect</h2>
+<div align="center">
+  Always open to interesting conversations, collaborations, and new opportunities.<br/>
+  <b>Don't be a stranger — let's build something great together. 🚀</b>
+</div>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:0a0a0a&height=120&section=footer" />
