@@ -75,19 +75,29 @@ const dev = {
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abk700007&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abk700007&theme=github_dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
 </div>
+
 <br/>
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=abk700007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=0077b6&text_color=c9d1d9&ring_color=0077b6" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abk700007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" />
+
+<img height="190"
+src="https://github-readme-stats.vercel.app/api?username=Abk700007&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=0077b6&text_color=c9d1d9&ring_color=00b4d8&cache_seconds=1800"/>
+
+<img height="190"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abk700007&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&cache_seconds=1800"/>
+
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abk700007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0077b6&ring=00b4d8&fire=00b4d8&currStreakLabel=c9d1d9&sideLabels=c9d1d9" />
+
+<img
+src="https://streak-stats.demolab.com?user=Abk700007&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9&stroke=0077b6"/>
+
 </div>
-<br/>
 
 <h2 align="center">🏆 Open Source Contributions</h2>
 <div align="center">
