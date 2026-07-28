@@ -41,12 +41,24 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
 
+      # 3a. Ensure no conflicting trophy path
+      - name: Ensure no conflicting trophy path
+        run: |
+          # If a directory or tracked path named github-trophies.svg exists, remove it
+          if [ -d github-trophies.svg ]; then
+            git rm -r --ignore-unmatch github-trophies.svg || true
+            rm -rf github-trophies.svg
+          fi
+          # Also remove any file just in case
+          rm -f github-trophies.svg
+
       # 3. Generate Trophies Card
       - name: Generate GitHub Trophies
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: Abk700007
-          output_path: github-trophies.svg
+          # Write explicitly into the repository workspace to avoid writing into the action's package dir
+          output_path: ${{ github.workspace }}/github-trophies.svg
           column: 7
           theme: onedark
           no-frame: true
