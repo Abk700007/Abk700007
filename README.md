@@ -1,342 +1,189 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0077ff,100:00f5ff&height=220&section=header&text=ABHIRANJAN%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;Full+Stack+Developer;AI+Engineering+Explorer;Data+Engineering+Enthusiast;Open+Source+Contributor"/>
-
-<br/><br/>
-
-<a href="https://github.com/Abk700007">
-<img src="https://img.shields.io/github/followers/Abk700007?style=for-the-badge&logo=github&label=FOLLOWERS&color=00f5ff&labelColor=050505"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Abk700007&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS"/>
-
-<a href="https://www.linkedin.com/in/abhiranjan-kumar48/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <!-- HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0077ff,100:00f5ff&height=220&section=header&text=ABHIRANJAN%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  
+  <!-- TYPING BANNER -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;Full+Stack+Developer;AI+Engineering+Explorer;Data+Engineering+Enthusiast;Open+Source+Contributor"/>
+  
+  <!-- BADGES -->
+  <p>
+    <img src="https://img.shields.io/badge/GITHUB-Abk700007-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050505"/>
+    <img src="https://img.shields.io/github/followers/Abk700007?style=for-the-badge&logo=github&label=FOLLOWERS&color=00f5ff&labelColor=050505"/>
+    <img src="https://komarev.com/ghpvc/?username=Abk700007&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS"/>
+    <a href="https://www.linkedin.com/in/abhiranjan-kumar48/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
 </div>
 
-
-<br/>
-
-
-<h2 align="center">🖥️ SYSTEM INITIALIZATION</h2>
-```bash
-> Booting Abhiranjan Kumar profile...
-
-[████████████████████] 100%
-
-> Loading engineering modules...
-> Loading project database...
-> Loading technology stack...
-
-ACCESS GRANTED ✓
-
-Welcome to my GitHub workspace.
-
-<br/>
-<h2 align="center">👤 WHOAMI</h2>
-const developer = {
-
-    name: "Abhiranjan Kumar",
-
-    role:
-    "Software Engineer | Full Stack Developer | AI Explorer",
-
-    education:
-    "B.Tech Computer Science Engineering",
-
-    university:
-    "Siksha 'O' Anusandhan University",
-
-    location:
-    "India 🇮🇳",
-
-    experience:
-    "Data Engineering Intern @ Celebal Technologies",
-
-    focus: [
-        "Full Stack Development",
-        "Generative AI",
-        "Data Engineering",
-        "System Design",
-        "Open Source"
-    ],
-
-    philosophy:
-    "Build solutions that create real impact."
-
-};
-<br/> <h2 align="center">🚀 CURRENT MISSION</h2> <div align="center"> <table> <tr> <td align="center">
-MISSION_STATUS: ACTIVE
-
-CURRENTLY_BUILDING:
-
-  - AI powered applications
-  - Scalable backend systems
-  - Data engineering workflows
-  - Modern user experiences
-
-
-CURRENTLY_LEARNING:
-
-  - System Design
-  - Cloud Architecture
-  - AI Agents
-  - Distributed Systems
-</td> </tr> </table> </div> <br/> <h2 align="center">⚡ TECHNOLOGY MATRIX</h2> <div align="center">
-Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&theme=dark"/>
-
-<br/><br/>
-
-Frontend Engineering
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark"/>
-
-<br/><br/>
-
-Backend Engineering
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
-
-<br/><br/>
-
-Databases & Infrastructure
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis,docker,azure&theme=dark"/>
-
-<br/><br/>
-
-Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark"/> </div> <br/> <h2 align="center">🤖 AI & ENGINEERING FOCUS</h2>
-╭──────────────────────────────────────╮
-│          ENGINEERING DOMAINS          │
-├──────────────────────────────────────┤
-│                                      │
-│  Generative AI                       │
-│  ├── Gemini API                      │
-│  ├── RAG Applications                │
-│  └── AI Automation                   │
-│                                      │
-│  Data Engineering                    │
-│  ├── Data Processing                 │
-│  ├── Pipelines                       │
-│  └── Analytics                       │
-│                                      │
-│  Software Engineering                │
-│  ├── APIs                            │
-│  ├── Architecture                    │
-│  └── Scalable Systems                │
-│                                      │
-╰──────────────────────────────────────╯
-<br/> <h2 align="center">📂 PROJECT DATABASE</h2>
-🧠 FINNOVA
-
-AI-powered personal finance platform helping users understand and manage their financial future.
-PROJECT:
-  Finnova
-
-CATEGORY:
-  AI Financial Intelligence Platform
-
-STACK:
-  - Next.js
-  - PostgreSQL
-  - Supabase
-  - Prisma ORM
-  - Gemini AI
-
-FEATURES:
-  ✓ AI Financial Digital Twin
-  ✓ Financial Forecasting
-  ✓ AI Financial Copilot
-  ✓ Receipt Intelligence
-  ✓ What-If Simulator
-
-STATUS:
-  Production Ready
-Repository:
-https://github.com/Abk700007/Finnova
-<br/>
-⚓ HARBOR MASTER
-
-AI-powered assistant designed to improve open-source maintainer workflows.
-
-PROJECT:
-  HarborMaster
-
-CATEGORY:
-  AI Developer Productivity Platform
-
-STACK:
-  - React / Next.js
-  - FastAPI
-  - MongoDB
-  - Gemini AI
-
-FEATURES:
-  ✓ GitHub Intelligence
-  ✓ Community Insights
-  ✓ AI Workflows
-  ✓ Developer Automation
-
-STATUS:
-  Active Development
-<br/>
-📈 TRADETRACK
-
-Virtual trading platform built to simulate market analysis and portfolio management.
-
-PROJECT:
-  TradeTrack
-
-CATEGORY:
-  Full Stack Trading Platform
-
-STACK:
-  - React
-  - Node.js
-  - Express
-  - Tailwind CSS
-
-FEATURES:
-  ✓ Market Data Integration
-  ✓ Trading Simulation
-  ✓ Portfolio Dashboard
-  ✓ Modern UI Experience
-
-STATUS:
-  Active
-
-Repository:
-
-https://github.com/Abk700007/TradeTrack
-br/>
-
-
-<h2 align="center">💼 EXPERIENCE LOG</h2>
-
-experience:
-
-  - company: Celebal Technologies
-
-    role: Data Engineering Intern
-
-    focus:
-      - Data Engineering Workflows
-      - Data Processing
-      - Analytics Pipelines
-      - Engineering Practices
-
-
-  - organization: TCS Xcelerate
-
-    domain: MLOps Engineering
-
-    work:
-      - Machine Learning Pipeline
-      - Model Monitoring
-      - Drift Detection
-      - Automated Retraining
-<br/> <h2 align="center">🧩 ENGINEERING JOURNEY</h2>
-2024
-│
-├── Started building full-stack applications
-│
-│
-2025
-│
-├── Explored AI-powered applications
-├── Open Source Contributions
-│
-│
-2026
-│
-├── Data Engineering Internship
-├── MLOps Systems
-├── AI Product Development
-│
-│
-2027
-│
-└── Software Engineer Journey Begins 🚀
-<br/> <h2 align="center">📚 LEARNING PROTOCOL</h2> <div align="center">
-SYSTEM UPGRADES IN PROGRESS...
-
-
-AI ENGINEERING
-
-████████░░ 80%
-
-
-DATA ENGINEERING
-
-████████░░ 75%
-
-
-SYSTEM DESIGN
-
-██████░░░░ 60%
-
-
-CLOUD ARCHITECTURE
-
-██████░░░░ 55%
-
-
-DSA & PROBLEM SOLVING
-
-████████░░ 75%
-
-</div> <br/> <h2 align="center">📊 GITHUB SYSTEM METRICS</h2> <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abk700007&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=050505&title_color=00f5ff&icon_color=0077ff&text_color=c9d1d9"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abk700007&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=050505&title_color=00f5ff&text_color=c9d1d9"/>
-
-</div> <br/> <div align="center"> <img src="https://streak-stats.demolab.com?user=Abk700007&theme=github-dark-blue&hide_border=true&background=050505&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff"/> </div> <br/> <h2 align="center">🐍 CODE ACTIVITY STREAM</h2> <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </div> <br/> <h2 align="center">🌍 OPEN SOURCE RECORDS</h2>
-achievement:
-
-  event:
-    Hacktoberfest 2025
-
-  contribution:
-    - 6 Pull Requests
-    - Open Source Collaboration
-    - Community Contributions
-
-  status:
-    Completed ✓
-<br/> <h2 align="center">👁 SYSTEM MONITOR</h2> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Abk700007&style=for-the-badge&color=00f5ff&label=VISITORS+DETECTED"/> </div> <br/> <h2 align="center">📡 CONNECTION TERMINAL</h2>
-$ connect Abhiranjan
-
-
-[GitHub]
-
-https://github.com/Abk700007
-
-
-[LinkedIn]
-
-https://www.linkedin.com/in/abhiranjan-kumar48/
-
-
-[Email]
-
-abk700007@gmail.com
-
-
-> Connection channel ready.
-> Open for collaboration, engineering discussions and opportunities.
-<br/> <h2 align="center">⚡ FINAL MESSAGE</h2> <div align="center">
-╭──────────────────────────────────╮
-│                                  │
-│  Build. Learn. Improve. Repeat.   │
-│                                  │
-│  Turning ideas into software      │
-│  that creates real impact.       │
-│                                  │
-╰──────────────────────────────────╯
-</div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0077ff,100:050505&height=120&section=footer"/> </div> 
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:22D3EE&height=5&section=header"/>
+
+
+<!-- ================= ABOUT ================= -->
+<h2 align="center">👤 About Me</h2>
+
+<p align="center">
+🎓 <b>B.Tech Computer Science</b>, Siksha 'O' Anusandhan University<br/>
+💼 <b>Data Engineering Intern</b> @ Celebal Technologies<br/>
+⚙️ <b>MLOps Work</b> @ TCS Xcelerate — pipelines, model monitoring, drift detection<br/>
+🧠 <b>Building AI-powered products:</b> RAG apps, financial copilots, dev-workflow tools<br/>
+🌱 <b>Currently deep in:</b> System Design, Cloud Architecture, AI Agents<br/>
+🤝 Open to collaboration, internships, and interesting engineering problems<br/>
+📫 <b>Email:</b> <a href="mailto:abk700007@gmail.com">abk700007@gmail.com</a>
+</p>
+
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:22D3EE&height=5&section=header"/>
+
+<!-- ================= TECH STACK ================= -->
+<h2 align="center">⚡ Tech Stack</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="right"><b>Languages</b></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&theme=dark"/></td>
+    </tr>
+    <tr>
+      <td align="right"><b>Frontend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark"/></td>
+    </tr>
+    <tr>
+      <td align="right"><b>Backend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/></td>
+    </tr>
+    <tr>
+      <td align="right"><b>Databases & Infra</b></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis,docker,azure&theme=dark"/></td>
+    </tr>
+    <tr>
+      <td align="right"><b>Tools</b></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark"/></td>
+    </tr>
+  </table>
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:22D3EE&height=5&section=header"/>
+
+<!-- ================= FEATURED PROJECTS ================= -->
+<h2 align="center">📂 Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🧠 Finnova</h3>
+        <p>AI-powered personal finance platform.<br/>Digital twin, forecasting & financial copilot in one place.<br/>Turns receipts and transactions into real insight.</p>
+        <p><img src="https://skillicons.dev/icons?i=nextjs,prisma,postgres&theme=dark"/></p>
+      </td>
+      <td width="50%" align="center">
+        <h3>⚓ HarborMaster</h3>
+        <p>AI assistant for open-source maintainers.<br/>Surfaces GitHub intelligence and community insights.<br/>Automates repetitive maintainer workflows end-to-end.</p>
+        <p><img src="https://skillicons.dev/icons?i=fastapi,mongodb&theme=dark"/></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📈 TradeTrack</h3>
+        <p>Virtual trading & portfolio simulator.<br/>Simulates live market data and trade execution.<br/>Full portfolio dashboard with a modern UI.</p>
+        <p><img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark"/></p>
+      </td>
+      <td width="50%" align="center">
+        <h3>➕ More Projects</h3>
+        <p>More builds live on my GitHub.<br/>New AI and data engineering projects added regularly.<br/>Browse the full repository list for details.</p>
+        <p><a href="https://github.com/Abk700007?tab=repositories"><b>View All Repositories →</b></a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:22D3EE&height=5&section=header"/>
+
+<!-- ================= EXPERIENCE ================= -->
+<h2 align="center">💼 Experience</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Data Engineering Intern</h3>
+        <p><b>Celebal Technologies</b></p>
+        <p>Data pipelines · Processing workflows · Scalable analytics</p>
+      </td>
+      <td align="center">
+        <h3>MLOps Engineering</h3>
+        <p><b>TCS Xcelerate</b></p>
+        <p>ML pipelines · Model monitoring · Drift detection · Automated retraining</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:22D3EE&height=5&section=header"/>
+
+<!-- ================= JOURNEY ================= -->
+<h2 align="center">🧩 Engineering Journey</h2>
+
+<div align="center">
+  <p><b>2024</b> — 🚀 Started building full-stack applications</p>
+  <p><b>2025</b> — 🤖 Explored AI-powered apps · 🌍 Open source contributions</p>
+  <p><b>2026</b> — 💼 Data Engineering Internship · ⚙️ MLOps Systems · 🧠 AI Product Development</p>
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:22D3EE&height=5&section=header"/>
+
+<!-- ================= OPEN SOURCE & BADGES ================= -->
+<h2 align="center">🏆 Open Source Contributions</h2>
+
+<div align="center">
+  <p><b>Hacktoberfest 2025:</b> Shipped 6 pull requests. Earned every badge. Zero shortcuts.</p>
+  <p>
+    <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="80"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="80"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="80"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="80"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="80"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="80"/>
+  </p>
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:22D3EE&height=5&section=header"/>
+
+<!-- ================= GITHUB METRICS ================= -->
+<h2 align="center">📊 GitHub Metrics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abk700007&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=050505&title_color=00f5ff&text_color=c9d1d9" width="70%"/><br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Abk700007&theme=github-dark-blue&hide_border=true&background=050505&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" width="70%"/><br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abk700007&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%">
+  </picture>
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:EC4899,100:22D3EE&height=5&section=header"/>
+
+<!-- ================= CONNECT ================= -->
+<h2 align="center">📡 Let's Connect</h2>
+
+<div align="center">
+  <p>Always open to interesting conversations, collaborations, and new opportunities.<br/>
+  <b>Don't be a stranger — let's build something great together. 🚀</b></p>
+  <p>
+    <a href="https://github.com/Abk700007"><img src="https://img.shields.io/badge/GitHub-Abk700007-050505?style=for-the-badge&logo=github&logoColor=00f5ff"/></a>
+    <a href="https://www.linkedin.com/in/abhiranjan-kumar48/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:abk700007@gmail.com"><img src="https://img.shields.io/badge/Email-abk700007%40gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  </p>
+  <p><b>Build. Learn. Improve. Repeat.</b><br/>
+  <sub>Turning ideas into software that creates real impact.</sub></p>
+</div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0077ff,100:050505&height=120&section=footer"/>
