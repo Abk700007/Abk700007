@@ -1,131 +1,342 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0077b6,100:00b4d8&height=200&section=header&text=Abhiranjan%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&descAlignY=58&descSize=16&descColor=90e0ef&animation=fadeIn" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Frontend+Developer;DSA+Enthusiast;Full-Stack+Architect;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0077ff,100:00f5ff&height=220&section=header&text=ABHIRANJAN%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<div align="center">
-  <a href="https://github.com/Abk700007"><img src="https://img.shields.io/github/followers/abk700007?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0077b6&labelColor=0a0a0a" /></a>
-  <img src="https://komarev.com/ghpvc/?username=abk700007&style=for-the-badge&color=00b4d8&label=Profile+Views" />
-  <a href="https://www.linkedin.com/in/abhiranjan-kumar-9aa406292/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" /></a>
-</div>
 <br/>
 
-<h2 align="center">👨‍💻 About Me</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <ul>
-          <li>🎓 <b>Education:</b> B.Tech CSE at SOA University</li>
-          <li>💻 <b>Currently Building:</b> Production-grade UIs with React & Vite</li>
-          <li>🧠 <b>Currently Learning:</b> Data Engineering, AI Agent Resilience, and System Fault Tolerance</li>
-          <li>🚀 <b>Goals:</b> Mastering full-stack architecture & open-source collaboration</li>
-        </ul>
-      </td>
-      <td width="50%">
-<pre lang="javascript">
-const dev = {
-  name: "Abhiranjan Kumar",
-  role: "Data Engineer Intern @ Celebal Technologies",
-  location: "India (IST)",
-  passions: ["Data Engineering","Web Dev", "DSA", "Reading"],
-  motto: "Write code your future self will thank you for.",
-};
-</pre>
-      </td>
-    </tr>
-  </table>
-</div>
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;Full+Stack+Developer;AI+Engineering+Explorer;Data+Engineering+Enthusiast;Open+Source+Contributor"/>
 
-<h2 align="center">⚡ Tech Stack & Tools</h2>
-<div align="center">
-  <p><b>Languages</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,python,html,css&perline=10" />
-  </a>
-  <br/><br/>
-  <p><b>Frontend & Backend</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,bootstrap,tailwind&perline=10" />
-  </a>
-  <br/><br/>
-  <p><b>Tools & Platforms</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&perline=10" />
-  </a>
-</div>
-<br/>
+<br/><br/>
 
-<h2 align="center">🚀 Featured Builds</h2>
-<div align="center">
-  <a href="https://github.com/Abk700007/Finnova">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abk700007&repo=Finnova&theme=github_dark&bg_color=0d1117&border_color=0077b6&title_color=00b4d8&icon_color=0077b6&v=1" />
-  </a>
- <a href="https://github.com/Abk700007/TradeTrack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abk700007&repo=TradeTrack&theme=github_dark&bg_color=0d1117&border_color=0077b6&title_color=00b4d9&icon_color=0077b6" />
+<a href="https://github.com/Abk700007">
+<img src="https://img.shields.io/github/followers/Abk700007?style=for-the-badge&logo=github&label=FOLLOWERS&color=00f5ff&labelColor=050505"/>
 </a>
-  <br/><br/>
-</div>
-<br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<img src="https://komarev.com/ghpvc/?username=Abk700007&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abk700007&theme=github_dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="190"
-src="https://github-readme-stats.vercel.app/api?username=Abk700007&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=0077b6&text_color=c9d1d9&ring_color=00b4d8&cache_seconds=1800"/>
-
-<img height="190"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abk700007&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&cache_seconds=1800"/>
+<a href="https://www.linkedin.com/in/abhiranjan-kumar48/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
+
 
 <br/>
 
-<div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=Abk700007&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9&stroke=0077b6"/>
+<h2 align="center">🖥️ SYSTEM INITIALIZATION</h2>
+```bash
+> Booting Abhiranjan Kumar profile...
 
-</div>
+[████████████████████] 100%
 
-<h2 align="center">🏆 Open Source Contributions</h2>
-<div align="center">
-  <p><b>Hacktoberfest 2025:</b> Shipped 6 pull requests. Earned every badge. Zero shortcuts.</p>
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="80"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="80"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="80"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="80"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="80"/>
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="80"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="80"/>
-</div>
+> Loading engineering modules...
+> Loading project database...
+> Loading technology stack...
+
+ACCESS GRANTED ✓
+
+Welcome to my GitHub workspace.
+
 <br/>
+<h2 align="center">👤 WHOAMI</h2>
+const developer = {
 
-<div align="center">
-  <h3>Code Activity</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-<br/>
+    name: "Abhiranjan Kumar",
 
-<h2 align="center">🌐 Let's Connect</h2>
-<div align="center">
-  Always open to interesting conversations, collaborations, and new opportunities.<br/>
-  <b>Don't be a stranger — let's build something great together. 🚀</b>
-</div>
+    role:
+    "Software Engineer | Full Stack Developer | AI Explorer",
+
+    education:
+    "B.Tech Computer Science Engineering",
+
+    university:
+    "Siksha 'O' Anusandhan University",
+
+    location:
+    "India 🇮🇳",
+
+    experience:
+    "Data Engineering Intern @ Celebal Technologies",
+
+    focus: [
+        "Full Stack Development",
+        "Generative AI",
+        "Data Engineering",
+        "System Design",
+        "Open Source"
+    ],
+
+    philosophy:
+    "Build solutions that create real impact."
+
+};
+<br/> <h2 align="center">🚀 CURRENT MISSION</h2> <div align="center"> <table> <tr> <td align="center">
+MISSION_STATUS: ACTIVE
+
+CURRENTLY_BUILDING:
+
+  - AI powered applications
+  - Scalable backend systems
+  - Data engineering workflows
+  - Modern user experiences
+
+
+CURRENTLY_LEARNING:
+
+  - System Design
+  - Cloud Architecture
+  - AI Agents
+  - Distributed Systems
+</td> </tr> </table> </div> <br/> <h2 align="center">⚡ TECHNOLOGY MATRIX</h2> <div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&theme=dark"/>
+
+<br/><br/>
+
+Frontend Engineering
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark"/>
+
+<br/><br/>
+
+Backend Engineering
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
+
+<br/><br/>
+
+Databases & Infrastructure
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis,docker,azure&theme=dark"/>
+
+<br/><br/>
+
+Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark"/> </div> <br/> <h2 align="center">🤖 AI & ENGINEERING FOCUS</h2>
+╭──────────────────────────────────────╮
+│          ENGINEERING DOMAINS          │
+├──────────────────────────────────────┤
+│                                      │
+│  Generative AI                       │
+│  ├── Gemini API                      │
+│  ├── RAG Applications                │
+│  └── AI Automation                   │
+│                                      │
+│  Data Engineering                    │
+│  ├── Data Processing                 │
+│  ├── Pipelines                       │
+│  └── Analytics                       │
+│                                      │
+│  Software Engineering                │
+│  ├── APIs                            │
+│  ├── Architecture                    │
+│  └── Scalable Systems                │
+│                                      │
+╰──────────────────────────────────────╯
+<br/> <h2 align="center">📂 PROJECT DATABASE</h2>
+🧠 FINNOVA
+
+AI-powered personal finance platform helping users understand and manage their financial future.
+PROJECT:
+  Finnova
+
+CATEGORY:
+  AI Financial Intelligence Platform
+
+STACK:
+  - Next.js
+  - PostgreSQL
+  - Supabase
+  - Prisma ORM
+  - Gemini AI
+
+FEATURES:
+  ✓ AI Financial Digital Twin
+  ✓ Financial Forecasting
+  ✓ AI Financial Copilot
+  ✓ Receipt Intelligence
+  ✓ What-If Simulator
+
+STATUS:
+  Production Ready
+Repository:
+https://github.com/Abk700007/Finnova
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:0a0a0a&height=120&section=footer" />
+⚓ HARBOR MASTER
+
+AI-powered assistant designed to improve open-source maintainer workflows.
+
+PROJECT:
+  HarborMaster
+
+CATEGORY:
+  AI Developer Productivity Platform
+
+STACK:
+  - React / Next.js
+  - FastAPI
+  - MongoDB
+  - Gemini AI
+
+FEATURES:
+  ✓ GitHub Intelligence
+  ✓ Community Insights
+  ✓ AI Workflows
+  ✓ Developer Automation
+
+STATUS:
+  Active Development
+<br/>
+📈 TRADETRACK
+
+Virtual trading platform built to simulate market analysis and portfolio management.
+
+PROJECT:
+  TradeTrack
+
+CATEGORY:
+  Full Stack Trading Platform
+
+STACK:
+  - React
+  - Node.js
+  - Express
+  - Tailwind CSS
+
+FEATURES:
+  ✓ Market Data Integration
+  ✓ Trading Simulation
+  ✓ Portfolio Dashboard
+  ✓ Modern UI Experience
+
+STATUS:
+  Active
+
+Repository:
+
+https://github.com/Abk700007/TradeTrack
+br/>
+
+
+<h2 align="center">💼 EXPERIENCE LOG</h2>
+
+experience:
+
+  - company: Celebal Technologies
+
+    role: Data Engineering Intern
+
+    focus:
+      - Data Engineering Workflows
+      - Data Processing
+      - Analytics Pipelines
+      - Engineering Practices
+
+
+  - organization: TCS Xcelerate
+
+    domain: MLOps Engineering
+
+    work:
+      - Machine Learning Pipeline
+      - Model Monitoring
+      - Drift Detection
+      - Automated Retraining
+<br/> <h2 align="center">🧩 ENGINEERING JOURNEY</h2>
+2024
+│
+├── Started building full-stack applications
+│
+│
+2025
+│
+├── Explored AI-powered applications
+├── Open Source Contributions
+│
+│
+2026
+│
+├── Data Engineering Internship
+├── MLOps Systems
+├── AI Product Development
+│
+│
+2027
+│
+└── Software Engineer Journey Begins 🚀
+<br/> <h2 align="center">📚 LEARNING PROTOCOL</h2> <div align="center">
+SYSTEM UPGRADES IN PROGRESS...
+
+
+AI ENGINEERING
+
+████████░░ 80%
+
+
+DATA ENGINEERING
+
+████████░░ 75%
+
+
+SYSTEM DESIGN
+
+██████░░░░ 60%
+
+
+CLOUD ARCHITECTURE
+
+██████░░░░ 55%
+
+
+DSA & PROBLEM SOLVING
+
+████████░░ 75%
+
+</div> <br/> <h2 align="center">📊 GITHUB SYSTEM METRICS</h2> <div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abk700007&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=050505&title_color=00f5ff&icon_color=0077ff&text_color=c9d1d9"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abk700007&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=050505&title_color=00f5ff&text_color=c9d1d9"/>
+
+</div> <br/> <div align="center"> <img src="https://streak-stats.demolab.com?user=Abk700007&theme=github-dark-blue&hide_border=true&background=050505&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff"/> </div> <br/> <h2 align="center">🐍 CODE ACTIVITY STREAM</h2> <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </div> <br/> <h2 align="center">🌍 OPEN SOURCE RECORDS</h2>
+achievement:
+
+  event:
+    Hacktoberfest 2025
+
+  contribution:
+    - 6 Pull Requests
+    - Open Source Collaboration
+    - Community Contributions
+
+  status:
+    Completed ✓
+<br/> <h2 align="center">👁 SYSTEM MONITOR</h2> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Abk700007&style=for-the-badge&color=00f5ff&label=VISITORS+DETECTED"/> </div> <br/> <h2 align="center">📡 CONNECTION TERMINAL</h2>
+$ connect Abhiranjan
+
+
+[GitHub]
+
+https://github.com/Abk700007
+
+
+[LinkedIn]
+
+https://www.linkedin.com/in/abhiranjan-kumar48/
+
+
+[Email]
+
+abk700007@gmail.com
+
+
+> Connection channel ready.
+> Open for collaboration, engineering discussions and opportunities.
+<br/> <h2 align="center">⚡ FINAL MESSAGE</h2> <div align="center">
+╭──────────────────────────────────╮
+│                                  │
+│  Build. Learn. Improve. Repeat.   │
+│                                  │
+│  Turning ideas into software      │
+│  that creates real impact.       │
+│                                  │
+╰──────────────────────────────────╯
+</div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0077ff,100:050505&height=120&section=footer"/> </div> 
