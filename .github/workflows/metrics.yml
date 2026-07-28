@@ -13,8 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Clean up any leftover file/folder artifacts from previous runs
-      - name: Clean up existing SVG artifacts
+      # Step 0: Remove existing files/directories that block SVG creation
+      - name: Clean up old SVG artifacts
         run: rm -rf github-trophies.svg github-stats.svg github-top-langs.svg
 
       # 1. Generate Main Stats Card
