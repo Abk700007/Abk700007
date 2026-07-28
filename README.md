@@ -157,9 +157,8 @@
 <h2 align="center">📊 GitHub Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abk700007&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=050505&title_color=00f5ff&text_color=c9d1d9" width="70%"/><br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Abk700007&theme=github-dark-blue&hide_border=true&background=050505&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" width="70%"/><br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Abk700007&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/><br/><br/>
+  <img src="https://raw.githubusercontent.com/Abk700007/Abk700007/main/github-metrics.svg" width="90%"/><br/><br/><br/><br/>
+<br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
