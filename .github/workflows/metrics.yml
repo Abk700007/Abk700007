@@ -40,6 +40,8 @@ jobs:
       # 3. Generate Trophies Card
       - name: Generate GitHub Trophies
         uses: ryo-ma/github-profile-trophy@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           username: Abk700007
           output_path: github-trophies.svg
