@@ -60,7 +60,7 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: Abk700007
-          output_path: github-trophies.svg
+          output_path: ./github-trophies.svg
           column: 7
           theme: onedark
           no-frame: true
