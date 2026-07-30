@@ -23,10 +23,14 @@ jobs:
         run: |
           curl -f -s "https://github-stats-extended.vercel.app/api/top-langs/?username=Abk700007&layout=compact&theme=dark" -o github-top-langs.tmp.svg && mv github-top-langs.tmp.svg github-top-langs.svg || echo "Failed to fetch top languages card"
 
-      # 2b. Generate Streak Stats Card (DenverCoder1 Style)
+      # 2b. Generate Streak Stats Card (Local Action using your token)
       - name: Generate Streak Stats Card
-        run: |
-          curl -f -s "https://streak-stats.demolab.com/?user=Abk700007&theme=dark" -o github-streak.tmp.svg && mv github-streak.tmp.svg github-streak.svg || echo "Failed to fetch streak card"
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: Abk700007
+          token: ${{ secrets.METRICS_TOKEN }}
+          output-path: ./github-streak.svg
+          theme: dark
 
       # 3a. Ensure no conflicting trophy path
       - name: Ensure no conflicting trophy path
