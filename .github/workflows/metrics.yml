@@ -13,36 +13,20 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Step 0: Remove existing files/directories that block SVG creation
-      - name: Clean up old SVG artifacts
-        run: |
-          rm -f github-trophies.svg github-stats.svg github-top-langs.svg
-
-      # 1. Generate Main Stats Card
+      # 1. Generate Main Stats Card (Anurag Hazra Style)
       - name: Generate Stats Card
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-stats.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Abk700007
-          template: classic
-          base: header, activity, community
-          config_timezone: Asia/Kolkata
-          output_action: none
+        run: |
+          curl -f -s "https://github-stats-extended.vercel.app/api?username=Abk700007&show_icons=true&theme=dark" -o github-stats.tmp.svg && mv github-stats.tmp.svg github-stats.svg || echo "Failed to fetch stats card"
 
-      # 2. Generate Top Languages Card
+      # 2. Generate Top Languages Card (Anurag Hazra Style)
       - name: Generate Top Languages Card
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-top-langs.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Abk700007
-          base: ""
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          output_action: none
+        run: |
+          curl -f -s "https://github-stats-extended.vercel.app/api/top-langs/?username=Abk700007&layout=compact&theme=dark" -o github-top-langs.tmp.svg && mv github-top-langs.tmp.svg github-top-langs.svg || echo "Failed to fetch top languages card"
+
+      # 2b. Generate Streak Stats Card (DenverCoder1 Style)
+      - name: Generate Streak Stats Card
+        run: |
+          curl -f -s "https://streak-stats.demolab.com/?user=Abk700007&theme=dark" -o github-streak.tmp.svg && mv github-streak.tmp.svg github-streak.svg || echo "Failed to fetch streak card"
 
       # 3a. Ensure no conflicting trophy path
       - name: Ensure no conflicting trophy path
@@ -74,7 +58,7 @@ jobs:
 
           # Only add files that actually exist to avoid git pathspec errors
           files=""
-          for f in github-stats.svg github-top-langs.svg github-trophies.svg; do
+          for f in github-stats.svg github-top-langs.svg github-streak.svg github-trophies.svg; do
             if [ -f "$f" ]; then
               git add "$f"
               files="$files $f"
