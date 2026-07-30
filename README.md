@@ -157,8 +157,11 @@
 <h2 align="center">📊 GitHub Metrics</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abk700007/Abk700007/main/github-metrics.svg" width="90%"/><br/><br/><br/><br/>
-<br/><br/>
+  <img src="https://raw.githubusercontent.com/Abk700007/Abk700007/main/github-stats.svg" width="48%" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/Abk700007/Abk700007/main/github-top-langs.svg" width="48%" alt="GitHub Languages"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Abk700007/Abk700007/main/github-trophies.svg" width="95%" alt="GitHub Trophies"/>
+  <br/><br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
