@@ -160,6 +160,8 @@
   <img src="https://raw.githubusercontent.com/Abk700007/Abk700007/main/github-stats.svg" width="48%" alt="GitHub Stats"/>
   <img src="https://raw.githubusercontent.com/Abk700007/Abk700007/main/github-top-langs.svg" width="48%" alt="GitHub Languages"/>
   <br/><br/>
+  <img src="https://raw.githubusercontent.com/Abk700007/Abk700007/main/github-streak.svg" width="90%" alt="GitHub Streak"/>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/Abk700007/Abk700007/main/github-trophies.svg" width="95%" alt="GitHub Trophies"/>
   <br/><br/><br/>
   <picture>
