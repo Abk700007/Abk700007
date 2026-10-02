@@ -23,7 +23,8 @@
 
 <p align="center">
 🎓 <b>B.Tech Computer Science</b>, Siksha 'O' Anusandhan University<br/>
-💼 <b>Data Engineering Intern</b> @ Celebal Technologies<br/>
+💼   <b>MI CN Intern</b> @ NOKIA<br/>
+💼 <b>Former Data Engineering Intern</b> @ Celebal Technologies<br/>
 ⚙️ <b>MLOps Work</b> @ TCS Xcelerate — pipelines, model monitoring, drift detection<br/>
 🧠 <b>Building AI-powered products:</b> RAG apps, financial copilots, dev-workflow tools<br/>
 🌱 <b>Currently deep in:</b> System Design, Cloud Architecture, AI Agents<br/>
